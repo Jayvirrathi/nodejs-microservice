@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-microservice",
+  "version": "1.0.0",
+  "bin": {
+    "nodejs-microservice": "index.js"
+  },
+  "description": "A CLI to automatically clone the Node Microservice Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jayvirrathi/nodejs-microservice.git"
+  },
+  "keywords": [],
+  "author": "Jayvir Rathi",
+  "license": "MIT"
+}
