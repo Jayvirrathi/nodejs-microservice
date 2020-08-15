@@ -1,6 +1,6 @@
 # nodejs-microservice
 
-A CLI to automatically clone the [Node Microservice API Starter](https://github.com/Jayvirrathi/microservices.git).
+A CLI to automatically clone the [Node Microservice API Starter](https://github.com/Jayvirrathi/microservices.git) with MongoDB.
 
 ## Installation
 
